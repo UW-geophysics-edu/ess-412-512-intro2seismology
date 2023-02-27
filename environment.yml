@@ -1,0 +1,12 @@
+name: ess412
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - pip
+  - obspy
